@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = zacarter93@gmail.com
+	name = Zach Carter
